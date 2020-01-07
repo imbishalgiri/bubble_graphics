@@ -3,9 +3,8 @@
 This is a graphics using *HTML 5* canvas and **javascript**.
 
 *Clone it if you want to man*
-```
-git clone https://github.com/imbishalgiri/bubble_graphics.git
-```
+
+it's just an animation of balls, clone it and open **index.html** in browser
 
 
 
